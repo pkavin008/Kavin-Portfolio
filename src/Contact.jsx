@@ -46,13 +46,13 @@ const Contact = () => {
     { 
       icon: <FiLinkedin style={{ color: '#ff9e3d' }} />, 
       text: "linkedin.com/in/yourprofile",
-      link: "https://linkedin.com/in/yourprofile",
+      link: "https://www.linkedin.com/in/kavin-p",
       color: '#ff9e3d'
     },
     { 
       icon: <FiGithub style={{ color: '#6366f1' }} />, 
       text: "github.com/yourusername",
-      link: "https://github.com/yourusername",
+      link: "https://github.com/pkavin008",
       color: '#6366f1'
     }
   ];
