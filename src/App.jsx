@@ -10,7 +10,7 @@ import Footer from './Footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Kavin-Portfolio'>
       <div className="app-container">
         <NavBar />
         <AnimatePresence mode='wait'>
